@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\SmartCalendar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\SmartCalendar\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_41fd4743862b00e50e9cc287709b1b784fb71e1a.jar" />
+    </item>
+    <item
+        jar="C:\SmartCalendar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\SmartCalendar\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.0_35157a41e9aa6a3121f4154b559e9d1e077f8609.jar" />
+    </item>
+    <item
+        jar="C:\SmartCalendar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\SmartCalendar\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.0_e88988ff08d87159984e096750c6aad42a8fbabd.jar" />
+    </item>
+    <item
+        jar="C:\SmartCalendar\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\SmartCalendar\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.0_b590e9ab7690fb386de3c6b21ad0327c1c85a8d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abbes\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\SmartCalendar\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_a39b83e1a620a58d7f19329a564e0b7cbca36c28.jar" />
+    </item>
+    <item
+        jar="C:\SmartCalendar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\SmartCalendar\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_255e6d8c8dfcf7aaf7eb1c9282e2a9d61463099c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abbes\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\SmartCalendar\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_5daf56874f5642d35857cf68225966f3eb1ca77b.jar" />
+    </item>
+
+</items>

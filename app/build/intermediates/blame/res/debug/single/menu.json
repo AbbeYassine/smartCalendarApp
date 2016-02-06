@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\SmartCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\SmartCalendar\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\SmartCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\SmartCalendar\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\CoursGL4\\Semestre2\\AppsMobile\\TP\\TP1\\SmartCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\CoursGL4\\Semestre2\\AppsMobile\\TP\\TP1\\SmartCalendar\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\CoursGL4\\Semestre2\\AppsMobile\\TP\\TP1\\SmartCalendar\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\CoursGL4\\Semestre2\\AppsMobile\\TP\\TP1\\SmartCalendar\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
